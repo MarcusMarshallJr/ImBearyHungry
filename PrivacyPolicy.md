@@ -17,7 +17,7 @@ If you choose to click on an advertisement, you will be directed to an external 
 ### Zomato provides some restaurant suggestions:
 Beary Hungry also uses a service called Zomato to provide restaurant suggestions based on your location. To do so, Beary Hungry sends latitude and longitude values of your location to Zomato to find restaurants near you. However, you can choose to manually enter in any location if you prefer the app to not have your precise location. If you are interested in learning more about how Zomato uses the location data Beary Hungry sends them, you can see their privacy policy [here](https://www.zomato.com/api_policy).
 
-## Changes to This Privacy Policy
+## Changes to this Privacy Policy
 I may update this privacy policy from time to time. Please, review this page periodically for changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 If you have questions about this Privacy Policy, email imhungrybear@gmail.com. 
