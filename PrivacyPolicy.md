@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Hi there! 
+Hi there! 
 Beary Hungry is an Ad supported iOS app that I am providing “as is” on the App Store at no cost to users. 
 
 By choosing to use Beary Hungry, you agree to the collection and use of information in relation to this policy.
