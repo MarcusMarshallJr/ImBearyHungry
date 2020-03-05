@@ -23,21 +23,3 @@ I may update this privacy policy from time to time. Please, review this page per
 If you have questions about this Privacy Policy, email imhungrybear@gmail.com. 
 
 Marcus, App Developer for Beary Hungry
-
-
-
----
-
-
-If you allow us to, Beary Hungry uses your location to provide you with restaurant suggestions near you. To 
-
-
-How we provide advertisements
-Beary Hungry uses Google’s AdMob service to display advertisements throughout the application. This service may collect information used to identify you. Google’s AdMob service’s privacy policy can be found here. 
-
-
-
-Changes to the privacy policy
-In the future, I may choose to update this privacy policy; so, please review it periodically. If things change, they will be present here and will take 
-
-#Beary Hungry#
