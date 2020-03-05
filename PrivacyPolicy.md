@@ -5,7 +5,7 @@ Beary Hungry is an Ad supported iOS app that I am providing “as is” on the A
 
 By choosing to use Beary Hungry, you agree to the collection and use of information in relation to this policy.
 
-In a nutshell, the app does not collect or store any personal information about you. Information that is requested to make the app function, for example your location, stays on your device and is not collected by me in any way. 
+In a nutshell, the app does not collect or store any personal information about you. Information that is requested to make the app function, like your location, is only used to provide you with local restaurant suggestions and is not collected by me in any way. 
 
 However, Beary Hungry does use a few third party services to help it function. Those services may collect personal information: 
 
