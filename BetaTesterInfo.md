@@ -7,7 +7,7 @@
 ### Here's what a beta tester does.
 If you’ve never done this before, you’re in for a behind-the-scenes treat that many people never get to experience! In a nutshell, all I want you to do is use the app over the next week when you’re looking for somewhere to eat. Then tell me if the app helped make that decision easier for you. I’ll be sending out some targeted feedback surveys later next week to get your thoughts about specific features in the app, but you don’t have to wait until then to give your feedback and comments when you see something you want to tell me about.
 
-### Your feedback means the world to me.
+### Your feedback means the world to me ❤️.
 If you like something, tell me. If you don’t like something, tell me so I can do some more testing. If something confuses you, I want to know about it. If you have ideas for features or things you wish the app could do, I want those too. Any thoughts you have are valid thoughts. This whole beta process is to polish and refine the app before it’s released to the App Store. I anticipate being able to finally release next Friday, May 29th. As you probably know, I wanted to release in March but development took longer than I anticipated. Additionally, I want to make sure I get as much as I can right before it's released to the world. And that's where you come in.
 
 ### How you can submit feedback about the app.
