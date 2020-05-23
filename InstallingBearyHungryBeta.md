@@ -1,6 +1,6 @@
 # Installing the App
 ---
-1. Before accepting the invite, Download an app on the App Store called: TestFlight. It’s kinda like an App Store for beta apps. [What the TestFlight app looks like](https://nie.res.netease.com/r/pic/20190626/0179f775-5bac-43d6-a4d8-17a0dcaf0f60.jpg)
+1. Before accepting the invite, Download an app on the App Store called: TestFlight. It’s kinda like an App Store for beta apps. [Click here to see what the TestFlight app looks like.](https://nie.res.netease.com/r/pic/20190626/0179f775-5bac-43d6-a4d8-17a0dcaf0f60.jpg)
 
 2. Open your email. You should have a new one that with the subject “Marcus Marshall, Jr has invited you to test  Beary Hungry.” To  accept the invitation, you just press the blue button in the email that says “View In TestFlight.” If you get an error like “Couldn’t load app” just message me and I’ll resend the invite. 
 
