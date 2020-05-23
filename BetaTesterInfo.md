@@ -1,7 +1,7 @@
 
 # Important Beta Tester Info
 ---
-*I would love for you to read this whole thing, but I know you may be busy. So, if you don’t have time to read these 5 paragraphs, skip to the bottom for a TL;DR summary.*
+*I would love for you to read this whole thing, but I know you may be busy. So, if you don’t have time to read all 5 paragraphs, skip to the bottom for a TL;DR summary.*
 
 
 ### Here's what a beta tester does.
