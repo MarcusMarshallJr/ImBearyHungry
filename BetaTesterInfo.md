@@ -7,7 +7,7 @@ If you’ve never done this before, you’re in for a behind the scenes treat th
 
 If you like something, tell me. If you don’t like something, tell me so I can do some more testing. If something confuses you, I want to know about it. If you have ideas for features or things you wish the app could do, I want those too. Any thoughts you have are valid thoughts. This whole beta process is to polish and refine the app before it’s released to the App Store.  I anticipate being able to finally release next Friday, May 29th. As you probably know, I wanted to release in March but development took longer than I was anticipating and I wanted to get as much as I could right before I released it. 
 
-You can use this form https://forms.gle/899HFmUn4VHe5maB9 to submit any feedback you have. It only asks you what iPhone you have and then lets you type out your feedback, so it’s just as easy as texting or messaging me. By using the form, you’re helping me keep all  of the feedback I get in one place instead of it being scattered around in text message threads, emails, and phone calls. The form is completely anonymous, so I won’t know who’s giving the feedback unless you choose to include your name at the end.
+You can use this form [here](https://forms.gle/899HFmUn4VHe5maB9) to submit any feedback you have. It only asks you what iPhone you have and then lets you type out your feedback, so it’s just as easy as texting or messaging me. By using the form, you’re helping me keep all  of the feedback I get in one place instead of it being scattered around in text message threads, emails, and phone calls. The form is completely anonymous, so I won’t know who’s giving the feedback unless you choose to include your name at the end.
 
 Last, there are a few issues with the app that I know about that I want you to be aware of. These will be fixed soon.
 1. The app is not currently compatible with iOS 13’s dark mode, if you can’t see text, turn off dark mode and the text should return.
@@ -23,6 +23,6 @@ Thank you so much for being a part of this. ❤️ If you have questions about a
 ### TL;DR (Too Long; Didn’t Read?)/ Summary
 1. Use the app when you’re looking for somewhere to eat over the next week.
 2. I want your honest feedback, opinions, and suggestions. You won’t hurt my feelings. In fact, I want your candid comments.
-3. Use this link (https://forms.gle/899HFmUn4VHe5maB9) to give me your feedback.
+3. Use this [link](https://forms.gle/899HFmUn4VHe5maB9) to give me your feedback.
 4. There are some known issues with the app that I plan on fixing soon. You can read about them in the 4th paragraph above.
 5. Thank you so much ❤️
