@@ -5,3 +5,5 @@
 2. Open your email. You should have a new one that with the subject “Marcus Marshall, Jr has invited you to test  Beary Hungry.” To  accept the invitation, you just press the blue button in the email that says “View In TestFlight.” If you get an error like “Couldn’t load app” just message me and I’ll resend the invite. 
 
 3. Next you can install the app. It will appear on your homescreen or you can just press the open button when it downloads. The beta app works just like any other app you have.
+
+> NOTE: If TestFlight asks you to enable notifications, please do. It should only notify you when I release an updated version of the app with fixes based on the feedback I recieve. I plan to do that a few times before the release next Friday.
