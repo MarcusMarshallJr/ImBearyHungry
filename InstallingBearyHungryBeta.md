@@ -6,4 +6,4 @@
 
 3. Next you can install the app. It will appear on your homescreen or you can just press the open button when it downloads. The beta app works just like any other app you have.
 
-> NOTE: If TestFlight asks you to enable notifications, please do. It should only notify you when I release an updated version of the app with fixes based on the feedback I recieve. I plan to do that a few times before the release next Friday.
+> NOTE: If TestFlight asks you to enable notifications, please do. It should only notify you when I release an updated version of the beta app with fixes based on the feedback I recieve. I plan to do that a few times before the release next Friday.
