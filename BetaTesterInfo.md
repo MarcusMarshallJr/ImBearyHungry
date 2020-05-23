@@ -52,5 +52,5 @@ Thank you so much for being a part of this. ❤️ If you have questions about a
 1. Use the app when you’re looking for somewhere to eat over the next week.
 2. I want your honest feedback, opinions, and suggestions. You won’t hurt my feelings. In fact, I want your candid comments.
 3. Use this [link](https://forms.gle/899HFmUn4VHe5maB9) to give me your feedback.
-4. There are some known issues with the app that I plan on fixing soon. You can read about them in the 5th paragraph above.
+4. There are some known issues with the app that I plan on fixing soon. You can read about them in the 5th paragraph above titled Known Issues.
 5. Thank you so much ❤️.
