@@ -15,7 +15,7 @@ You can use this form [here](https://forms.gle/899HFmUn4VHe5maB9) to submit any 
 
 ### Known Issues
 Last, there are a few issues with the app that I know about that I want you to be aware of. These will be fixed soon.
-1. The app is not currently compatible with iOS 13’s dark mode, if you can’t see text, turn off dark mode and the text should return.
+1. The app is not currently compatible with iOS 13’s dark mode, if you can’t see text in certain places, turn off dark mode and the text should return.
 2. “Shake to get different suggestions” has NOT been implemented. It will in the next few days, but I haven’t added the code to make that work yet.
 3. The “Directions” button has NOT been implemented yet. It will in the next few days, but I haven’t added the code to make that work yet.
 4. The “See More Options” screen does not currently retrieve any photos of the restaurant, so a placeholder is there instead. This will be fixed before the app store release.
