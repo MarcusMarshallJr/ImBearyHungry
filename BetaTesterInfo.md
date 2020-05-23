@@ -20,7 +20,7 @@ Last, there are a few issues with the app that I know about that I want you to b
 Thank you so much for being a part of this. ❤️ If you have questions about anything that I’ve mentioned or how to get the app downloaded, you’re welcome to shoot me a text! But remember if you want to give me feedback about the app, please use the form.
 
 
-## TL;DR (Too Long; Didn’t Read?)/ Summary
+### TL;DR (Too Long; Didn’t Read?)/ Summary
 1. Use the app when you’re looking for somewhere to eat over the next week.
 2. I want your honest feedback, opinions, and suggestions. You won’t hurt my feelings. In fact, I want your candid comments.
 3. Use this link (https://forms.gle/899HFmUn4VHe5maB9) to give me your feedback.
