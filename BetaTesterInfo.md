@@ -20,6 +20,7 @@ If you're unsure about what to give feedback on, here are some ideas:
 - functionality
 - did the app help you find a good restaurant?
 - flow 
+- navigation
 - animation
 - wording/verbage
 - colors
