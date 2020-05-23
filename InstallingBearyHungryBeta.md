@@ -1,4 +1,4 @@
-## Installing the App
+# Installing the App
 ---
 1. Before accepting the invite, Download an app on the App Store called: TestFlight. It’s kinda like an App Store for beta apps. [What the TestFlight app looks like](https://nie.res.netease.com/r/pic/20190626/0179f775-5bac-43d6-a4d8-17a0dcaf0f60.jpg)
 
