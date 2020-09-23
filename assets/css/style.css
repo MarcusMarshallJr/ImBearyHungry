@@ -77,6 +77,17 @@ h1 {
   font-size: 16px;
 }
 
+h2 {
+	font-family: Poppins;
+  font-size: 20px;
+  color: #111111;
+  padding-top: 25px;
+	font-weight: 600;
+	line-height: 1.3;
+	letter-spacing: 1px;
+	margin-bottom: 20px;
+}
+
 /*----- Helper Classes -----*/
 
 html * {
@@ -186,8 +197,8 @@ body {
 
 .btn-fill {
 	background: #FFFFFF;
-	color: #5924EC;
-	border: 2px solid #5924EC;
+	color: #F1B455;
+	border: 2px solid #F1B455;
 	-webkit-transition: 200ms;
 	-moz-transition: 200ms;
 	-o-transition: 200ms;
@@ -195,9 +206,9 @@ body {
 }
 
 .btn-fill:hover, .btn-fill:focus {
-	color: #5924EC;
+	color: #F1B455;
 	background: transparent;
-	border: 2px solid #5924EC;
+	border: 2px solid #F1B455;
 }
 
 
@@ -240,7 +251,7 @@ body {
 .navbar-default .navbar-brand .navbar-toggle .collapsed {
     padding: 4px 6px;
     font-size: 16px;
-    color: #111111;
+    color: #F1B455;
   }
 
 .navbar-default .navbar-brand {
@@ -256,7 +267,7 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #444444;
+  color: #FFFFFF;
   -webkit-transition: all 0.5s;
 	-moz-transition: all 0.5;
   transition: all 0.5s;
@@ -296,7 +307,7 @@ body {
 }
 
 .navbar-default .nav-white > li > a:hover {
-	color: #999999;
+	color: #FFFFFF;
 }
 
 /*---------- Media Queries ---------*/
@@ -358,6 +369,7 @@ body {
 
 .navbar.past-main {
 	font-size: 14px;
+
 	padding-top: 5px;
 	height: 60px;
 	-webkit-box-shadow: 0 1px 5px 0 rgba(96, 96, 96, 0.3);
@@ -460,8 +472,8 @@ body {
 
  .btn-action {
 	font-family: Roboto;
-	background-color: #5924EC;
-  border: 2px solid #5924EC;
+	background-color: #F1B455;
+  border: 2px solid #F1B455;
 	border-radius: 0;
   color: #FFFFFF;
   font-size: 12px;
@@ -480,17 +492,17 @@ body {
 
 .hero-content .btn-action:hover, .hero-content .btn-action:focus,
 .hero-content .btn-action:active, .hero-content .btn-action:active:focus {
-	background: transparent;
+	background: #CD6022;
 	outline: none;
-	color: #5924EC;
-	border-color: #5924EC;
+	color: #FFFFFF;
+	border-color: #CD6022;
 }
 
 .btn-action:hover, .btn-action:focus, .btn-action:active, .btn-action:active:focus {
-	background: transparent;
+	background: #FFFFFF;
 	outline: none;
-	color: #5924EC;
-	border-color: #5924EC;
+	color: #F1B455;
+	border-color: #F1B455;
 }
 
 .txt-white h1 {
@@ -601,8 +613,8 @@ body {
 
 .services {
 	overflow: hidden;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 
 .services .services-icon {
@@ -612,7 +624,6 @@ body {
 	border-radius: 50%;
 	border: 2px solid;
 	border-color: transparent;
-	background: #F6F6F6;
 	margin: 0 auto;
 	-webkit-transition: 0.5s;
 	-moz-transition: 0.5s;
@@ -1541,14 +1552,12 @@ label {
 	}
 
 	.btn-action {
-	  border: 2px solid #5924EC;
 		font-weight: 500;
 	  height: 42px;
 	  padding: 0 24px;
 	}
 
 	.btn-fill {
-		border: 2px solid #5924EC;
 		height: 38px;
 	}
 
